@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+button{
+    padding: 18px 38px;
+    border-radius: 20px;
+    background-color: rgb(223, 21, 21);
+    font-size: 30px;
+}
+button:active {
+    cursor: pointer;
+    background-color: #FF1D18;
+}
+.bulb{
+    margin: 200px;
+    text-align: center;
+}
